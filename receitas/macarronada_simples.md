@@ -1,6 +1,6 @@
-# MACARRONADA SIMPLES
+# MACARRONADA SIMPLES :spaghetti: 
 
-INGREDIENTES
+INGREDIENTES 
 --------------
 
 * 1 litro de água
